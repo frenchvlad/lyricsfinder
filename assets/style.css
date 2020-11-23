@@ -1,6 +1,5 @@
 .fa-music {
     transition: color 2s;
-    animation: rubberBand 2s infinite;
     font-size:50px;
 }
 .fa-music:hover {
